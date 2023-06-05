@@ -7,4 +7,4 @@ REPORT ZSELAMLA_.
 
 
 START-OF-SELECTION.
-  WRITE: |Hello World! This is a basic usage for ABAPGit.|.
+  WRITE: |Hello World! This is a basic usage for ABAPGit...|.
